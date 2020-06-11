@@ -144,3 +144,4 @@
 {"message":"Unauthorized request to path: /api/bookmarks/8","level":"error"}
 {"message":"Bookmark with id 8 was successfully deleted.","level":"info"}
 {"message":"Unauthorized request to path: /api/bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
